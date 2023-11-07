@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListView Practice</string>
+    <string name="lottery_data_list_title">大樂透開獎</string>
+    <string name="lottery_data_list_new_data">開獎！</string>
+</resources>
